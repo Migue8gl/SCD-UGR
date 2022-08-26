@@ -1,0 +1,82 @@
+Filósofo 8 solicita sentarse 
+Filósofo 2 solicita sentarse 
+Filósofo 4 solicita sentarse 
+Filósofo 2 se sienta. (1)
+Filósofo 6 solicita sentarse 
+Filósofo 4 se sienta. (2)
+Filósofo 6 se sienta. (3)
+Filósofo 0 solicita sentarse 
+Filósofo 0 se sienta. (4)
+Filósofo 2 solicita ten. izq.3
+Filósofo 2 solicita ten. der.1
+Ten. 3 ha sido cogido por filo. 2
+Ten. 1 ha sido cogido por filo. 2
+Filósofo 2 comienza a comer
+Filósofo 6 solicita ten. izq.7
+Filósofo 6 solicita ten. der.5
+Ten. 7 ha sido cogido por filo. 6
+Filósofo 6 comienza a comer
+Ten. 5 ha sido cogido por filo. 6
+Filósofo 6 suelta ten. izq. 7
+Ten. 7 ha sido liberado por filo. 6
+Filósofo 6 suelta ten. der. 5
+Ten. 5 ha sido liberado por filo. 6
+Filósofo 6 se levanta. (3)
+Filósofo 8 se sienta. (4)
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+Ten. 5 ha sido cogido por filo. 4
+Filosofo 6 comienza a pensar
+Filósofo 0 solicita ten. der.0
+Filósofo 6 solicita sentarse 
+Filósofo 8 solicita ten. izq.9
+Ten. 7 ha sido cogido por filo. 8
+Ten. 9 ha sido cogido por filo. 8
+Filósofo 8 solicita ten. der.7
+Filósofo 8 comienza a comer
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Ten. 3 ha sido liberado por filo. 2
+Ten. 3 ha sido cogido por filo. 4
+Filósofo 2 se levanta. (3)
+Filósofo 6 se sienta. (4)
+Ten. 1 ha sido liberado por filo. 2
+Filósofo 4 comienza a comer
+Filósofo 6 solicita ten. izq.7
+Filosofo 2 comienza a pensar
+Filósofo 8 se levanta. (3)
+Filósofo 8 suelta ten. izq. 9
+Filósofo 8 suelta ten. der. 7
+Ten. 9 ha sido liberado por filo. 8
+Ten. 7 ha sido liberado por filo. 8
+Ten. 7 ha sido cogido por filo. 6
+Filósofo 6 solicita ten. der.5
+Filósofo 4 suelta ten. izq. 5
+Ten. 5 ha sido liberado por filo. 4
+Filósofo 4 suelta ten. der. 3
+Ten. 3 ha sido liberado por filo. 4
+Ten. 5 ha sido cogido por filo. 6
+Filósofo 6 comienza a comer
+Filosofo 8 comienza a pensar
+Filósofo 6 suelta ten. izq. 7
+Filósofo 6 suelta ten. der. 5
+Ten. 7 ha sido liberado por filo. 6
+Ten. 5 ha sido liberado por filo. 6
+Filósofo 8 se sienta. (4)
+Filósofo 4 se levanta. (3)
+Filósofo 8 solicita sentarse 
+Filósofo 2 solicita sentarse 
+Filósofo 2 se sienta. (4)
+Filósofo 6 se levanta. (3)
+Ten. 7 ha sido cogido por filo. 8
+Filósofo 8 solicita ten. izq.9
+Filósofo 8 solicita ten. der.7
+Ten. 9 ha sido cogido por filo. 8
+Filósofo 8 comienza a comer
+Ten. 3 ha sido cogido por filo. 2
+Filósofo 2 solicita ten. izq.3
+Filósofo 2 solicita ten. der.1
+Ten. 1 ha sido cogido por filo. 2
+Filósofo 2 comienza a comer
+Filosofo 6 comienza a pensar
+Filósofo 2 suelta ten. izq. 3

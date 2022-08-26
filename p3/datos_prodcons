@@ -1,0 +1,72 @@
+Productor 3 ha producido valor 16
+Productor 3 va a enviar valor 16
+Buffer ha recibido valor 16
+Buffer va a enviar valor 16
+Consumidor 5 ha recibido valor 16
+Productor 0 ha producido valor 1
+Productor 0 va a enviar valor 1
+Buffer ha recibido valor 1
+Buffer va a enviar valor 1
+Consumidor 6 ha recibido valor 1
+Productor 3 ha producido valor 17
+Productor 3 va a enviar valor 17
+Buffer ha recibido valor 17
+Buffer va a enviar valor 17
+Consumidor 7 ha recibido valor 17
+Productor 2 ha producido valor 11
+Productor 2 va a enviar valor 11
+Buffer ha recibido valor 11
+Buffer va a enviar valor 11
+Consumidor 8 ha recibido valor 11
+Productor 3 ha producido valor 18
+Productor 3 va a enviar valor 18
+Buffer ha recibido valor 18
+Buffer va a enviar valor 18
+Consumidor 9 ha recibido valor 18
+Productor 1 ha producido valor 6
+Productor 1 va a enviar valor 6
+Buffer ha recibido valor 6
+Productor 0 ha producido valor 2
+Productor 0 va a enviar valor 2
+Buffer ha recibido valor 2
+Productor 2 ha producido valor 12
+Productor 2 va a enviar valor 12
+Buffer ha recibido valor 12
+Productor 0 ha producido valor 3
+Productor 0 va a enviar valor 3
+Buffer ha recibido valor 3
+Consumidor 8 ha consumido valor 11
+Consumidor 8 ha recibido valor 6
+Buffer va a enviar valor 6
+Productor 3 ha producido valor 19
+Productor 3 va a enviar valor 19
+Buffer ha recibido valor 19
+Consumidor 5 ha consumido valor 16
+Consumidor 5 ha recibido valor 2
+Buffer va a enviar valor 2
+Productor 2 ha producido valor 13
+Productor 2 va a enviar valor 13
+Buffer ha recibido valor 13
+Productor 0 ha producido valor 4
+Productor 0 va a enviar valor 4
+Buffer ha recibido valor 4
+Consumidor 6 ha consumido valor 1
+Consumidor 6 ha recibido valor 12
+Buffer va a enviar valor 12
+Productor 1 ha producido valor 7
+Productor 1 va a enviar valor 7
+Buffer ha recibido valor 7
+Consumidor 9 ha consumido valor 18
+Consumidor 9 ha recibido valor 3
+Buffer va a enviar valor 3
+Productor 3 ha producido valor 20
+Productor 3 va a enviar valor 20
+Buffer ha recibido valor 20
+Consumidor 7 ha consumido valor 17
+Consumidor 7 ha recibido valor 19
+Buffer va a enviar valor 19
+Productor 1 ha producido valor 8
+Productor 1 va a enviar valor 8
+Buffer ha recibido valor 8
+Productor 2 ha producido valor 14
+
